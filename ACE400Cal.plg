@@ -1,0 +1,52 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ACE400Cal - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x412 /fo"Debug/ACE400Cal.res" /d "_DEBUG" "C:\sonji\Bioptro\ACE400Cal\ACE400Cal\ACE400Cal.rc"" 
+Creating temporary file "C:\Users\User\AppData\Local\Temp\RSPBB20.tmp" with contents
+[
+CDIO.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/ACE400Cal.pdb" /debug /machine:I386 /out:"Debug/ACE400Cal.exe" /pdbtype:sept 
+.\Debug\ACE400Cal.obj
+.\Debug\CalibDialog.obj
+.\Debug\ConfigDialog.obj
+.\Debug\DlgNumberKeyPad.obj
+.\Debug\Error.obj
+.\Debug\font.obj
+.\Debug\Globals.obj
+.\Debug\labelcontrol.obj
+.\Debug\MacroMotion.obj
+.\Debug\MainDialog.obj
+.\Debug\ManualTestDlg.obj
+.\Debug\MicroMotion.obj
+.\Debug\MicroMotion_Contec.obj
+.\Debug\MicroMotion_ICP.obj
+.\Debug\MicroMotion_ICP_D64.obj
+.\Debug\Model.obj
+.\Debug\msflexgrid.obj
+.\Debug\picture.obj
+.\Debug\rowcursor.obj
+.\Debug\sspnctrl.obj
+.\Debug\StdAfx.obj
+.\Debug\System.obj
+.\Debug\ACE400Cal.res
+.\CDIO.lib
+.\APIDIO.LIB
+.\UniDAQ.lib
+.\D64HDLL.lib
+]
+Creating command line "link.exe @C:\Users\User\AppData\Local\Temp\RSPBB20.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+ACE400Cal.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,111 @@
+# Microsoft Developer Studio Generated Dependency File, included by ACE400Cal.mak
+
+.\DlgNumberKeyPad.cpp : \
+	".\CDio.h"\
+	".\DlgNumberKeyPad.h"\
+	".\Error.h"\
+	".\Globals.h"\
+	".\MacroMotion.h"\
+	".\MicroMotion.h"\
+	".\SeqStructV43.h"\
+	".\sspnctrl.h"\
+	".\ACE400Cal.h"\
+	
+
+.\Error.cpp : \
+	".\Error.h"\
+	
+
+.\font.cpp : \
+	".\font.h"\
+	
+
+.\Globals.cpp : \
+	".\CDio.h"\
+	".\DlgNumberKeyPad.h"\
+	".\Error.h"\
+	".\Globals.h"\
+	".\MacroMotion.h"\
+	".\MicroMotion.h"\
+	".\SeqStructV43.h"\
+	".\sspnctrl.h"\
+	".\ACE400Cal.h"\
+	
+
+.\labelcontrol.cpp : \
+	".\font.h"\
+	".\labelcontrol.h"\
+	".\picture.h"\
+	
+
+.\MacroMotion.cpp : \
+	".\CDio.h"\
+	".\DlgNumberKeyPad.h"\
+	".\Error.h"\
+	".\Globals.h"\
+	".\MacroMotion.h"\
+	".\MicroMotion.h"\
+	".\SeqStructV43.h"\
+	".\sspnctrl.h"\
+	".\ACE400Cal.h"\
+	
+
+.\MicroMotion.cpp : \
+	".\CDio.h"\
+	".\DlgNumberKeyPad.h"\
+	".\Error.h"\
+	".\Globals.h"\
+	".\MacroMotion.h"\
+	".\MicroMotion.h"\
+	".\SeqStructV43.h"\
+	".\sspnctrl.h"\
+	".\ACE400Cal.h"\
+	
+
+.\picture.cpp : \
+	".\picture.h"\
+	
+
+.\sspnctrl.cpp : \
+	".\font.h"\
+	".\picture.h"\
+	".\sspnctrl.h"\
+	
+
+.\StdAfx.cpp : \
+	"..\..\..\..\program files (x86)\microsoft visual studio\vc98\include\basetsd.h"\
+	".\StdAfx.h"\
+	
+
+.\ACE400Cal.cpp : \
+	".\CDio.h"\
+	".\DlgNumberKeyPad.h"\
+	".\Error.h"\
+	".\Globals.h"\
+	".\labelcontrol.h"\
+	".\MacroMotion.h"\
+	".\MicroMotion.h"\
+	".\SeqStructV43.h"\
+	".\sspnctrl.h"\
+	".\ACE400Cal.h"\
+	".\ACE400CalDlg.h"\
+	
+
+.\ACE400Cal.rc : \
+	".\res\ACE400Cal.ico"\
+	".\res\ACE400Cal.rc2"\
+	
+
+.\ACE400CalDlg.cpp : \
+	".\CDio.h"\
+	".\DlgNumberKeyPad.h"\
+	".\Error.h"\
+	".\Globals.h"\
+	".\labelcontrol.h"\
+	".\MacroMotion.h"\
+	".\MicroMotion.h"\
+	".\SeqStructV43.h"\
+	".\sspnctrl.h"\
+	".\ACE400Cal.h"\
+	".\ACE400CalDlg.h"\
+	

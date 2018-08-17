@@ -1,0 +1,32 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "ACE400Cal"=.\ACE400Cal.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+    {978C9E23-D4B0-11CE-BF2D-00AA003F40D0}
+    {0BA686B9-F7D3-101A-993E-0000C0EF6F5E}
+    {6262D3A0-531B-11CF-91F6-C2863C385E30}
+}}}
+
+###############################################################################
+
